@@ -1,1 +1,2 @@
-console.log('hello this is my first github rep. My name is George')
+console.log('hello this is my first github repo.')
+alert('this is a sorting project')
